@@ -1,5 +1,5 @@
 # AWS
-# DOCKER INSTALATION
+# DOCKER INSTALLATION
 1  sudo apt update    
     2  sudo apt install -y     apt-transport-https     ca-certificates     curl     gnupg     lsb-release     jq    
     3  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg    
